@@ -1,6 +1,5 @@
 # Hi, I'm D Varshini! 👋  
 
-
 ## 👩‍💻 About Me  
 🎓 Graduate student pursuing **M.Sc. Software Systems** at PSG College of Arts & Science, Coimbatore.  
 💡 Passionate about **Software Development, Web Development, Mobile Development, Machine Learning, and Cloud Computing (AWS).**  
@@ -58,3 +57,8 @@
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dvarshini14/)
+
+---
+
+## 💻 LeetCode Stats  
+![LeetCode Stats](https://leetcard.jacoblin.cool/D_Varshini14?theme=dark&font=Marcellus)
